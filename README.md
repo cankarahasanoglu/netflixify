@@ -10,8 +10,6 @@
   - Backend and database with firestore for users
 - [TMDB API](https://www.themoviedb.org/?language=en-US)
   - Movie service API
-- [React Reveal](https://www.react-reveal.com/)
-  - For fade animation effect
 
 ## Author
 
