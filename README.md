@@ -13,10 +13,6 @@
 - [TMDB API](https://www.themoviedb.org/?language=en-US)
   - Movie service API
 
-## Author
-
-- Can Karahasanoglu
-
 ## License
 
 - Full credit for API data to TMDB API.
